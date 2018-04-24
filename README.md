@@ -17,4 +17,4 @@ Click 'Open Project from File System' in Eclipse and open the entire project in 
 # Running
 Click 'Run as Java program'
 
-Enter the number of vertices followed by each vertex on its own line
+To run a different exercise, find in code the file name and change accordingly
